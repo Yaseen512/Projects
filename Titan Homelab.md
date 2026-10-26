@@ -1,8 +1,8 @@
-# Titan Homelab - Linux Infrastructure & Self-Hosting
+# 🖥️ Titan Homelab
 
 ## Overview
 
-Titan is my personal Linux homelab, where I deploy, manage and troubleshoot containerised applications and supporting infrastructure. The environment provides hands-on experience with Linux administration, service monitoring, networking and automation.
+Titan is my personal Linux-based homelab used to deploy, manage and monitor self-hosted applications and services. It provides a practical environment for developing Linux administration, containerisation, networking and infrastructure troubleshooting skills.
 
 ## Technologies
 
@@ -11,32 +11,38 @@ Titan is my personal Linux homelab, where I deploy, manage and troubleshoot cont
 - Home Assistant
 - Glances
 - Tailscale
-- Container health checks and service monitoring
+- YAML configuration
 
-## What I've Worked On
+## What I Worked On
 
-- Deployed and managed multiple containerised applications.
-- Configured container networking, port mappings and persistent storage.
-- Troubleshot container permissions, service connectivity and port conflicts.
-- Implemented monitoring for container and service health.
-- Configured notifications for important infrastructure events.
-- Set up secure remote administration for accessing services remotely.
+- Deployed and managed containerised services using Docker.
+- Configured and maintained services through Docker Compose.
+- Implemented infrastructure and container health monitoring.
+- Set up remote access using Tailscale.
+- Configured alerts for important service and host issues.
+- Troubleshot container health, port conflicts, networking and persistent storage.
+- Managed service configuration and connectivity across multiple applications.
 
-## Engineering Skills Demonstrated
+## Monitoring & Reliability
 
-- Linux system administration and troubleshooting
-- Container lifecycle management
-- Network connectivity and port management
-- Monitoring and operational alerting
-- Configuration management and service recovery
+The homelab includes monitoring for container status and service health. Important alerts are designed to notify me through both mobile push notifications and Home Assistant persistent notifications.
 
-## Project Goals
+This provides hands-on experience with service visibility, failure detection and operational troubleshooting.
 
-- Improve infrastructure reliability and visibility.
-- Automate repetitive administration tasks.
-- Expand my knowledge of containerised applications and DevOps practices.
-- Document deployment procedures and lessons learned.
+## Challenges & Learning
 
-## Notes
+Working on a self-hosted environment has helped me develop practical skills in:
 
-This is an ongoing personal project. Further documentation, architecture diagrams and sanitised screenshots will be added as the environment develops.
+- Diagnosing container and application failures.
+- Managing port allocations and service connectivity.
+- Understanding container health checks and persistent data.
+- Maintaining remote access to systems.
+- Designing alerts that make failures easier to detect.
+
+## Screenshots
+
+Screenshots of the monitoring setup and container status will be added here.
+
+## Key Takeaway
+
+Titan is an ongoing practical environment for developing Linux administration, containerisation, monitoring and infrastructure operations skills.
