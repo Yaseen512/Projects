@@ -1,18 +1,33 @@
-# Watchdog — Monitoring Screenshots
+# Watchdog — Monitoring Evidence
 
-This page will showcase the monitoring setup running on my Orange Pi 3 LTS.
+Dedicated monitoring node running on an Orange Pi 3 LTS.
 
-## Uptime Kuma
-Screenshot showing monitored services and their availability.
+**Stack:** Uptime Kuma · Glances · Discord
 
-*Screenshot to be added.*
+## 1. Uptime Kuma — Service Availability
 
-## Glances
-Screenshot showing system resource usage and monitoring metrics.
+Shows monitored services and their availability status.
 
-*Screenshot to be added.*
+![Uptime Kuma dashboard](watchdog-uptime-kuma.png)
 
-## Discord Alerts
-Screenshot showing a Watchdog monitoring notification delivered through Discord.
+*Screenshot pending.*
 
-*Screenshot to be added.*
+## 2. Glances — System Monitoring
+
+Shows system resource usage and metrics from the monitoring node.
+
+![Glances system metrics](watchdog-glances.png)
+
+*Screenshot pending.*
+
+## 3. Discord — Alert Notifications
+
+Shows a real monitoring notification delivered through Discord.
+
+![Discord monitoring alert](watchdog-discord.png)
+
+*Screenshot pending.*
+
+---
+
+*Screenshots will be added after capturing the running services. No sample or simulated monitoring results are presented as live evidence.*
