@@ -22,6 +22,7 @@ Titan is my personal Linux-based homelab used to deploy, manage and monitor self
 - Configured alerts for important service and host issues.
 - Troubleshot container health, port conflicts, networking and persistent storage.
 - Managed service configuration and connectivity across multiple applications.
+  📸 [View Titan Homelab Screenshots](screenshots/Titan-Homelab.md)
 
 ## Monitoring & Reliability
 
