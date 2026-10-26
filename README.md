@@ -17,7 +17,6 @@ I also build personal homelab projects to develop practical skills in monitoring
 - **AI & Application Development:** Local AI models, Ollama, Python and AI-powered applications
 - **Monitoring & Networking:** Service health monitoring, infrastructure metrics, remote access and Cloudflare Zero Trust
 
----
 
 ## 🚀 Featured Projects
 
