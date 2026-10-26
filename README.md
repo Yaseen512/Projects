@@ -17,12 +17,58 @@ I am a Linux and OpenShift engineer with an interest in infrastructure engineeri
 
 ## Featured Projects
 
-- [Titan Homelab](Titan%20Homelab.md) - Linux administration, Docker, monitoring and homelab infrastructure.
-- [Flight Deck](Flight%20deck.md) - A personal flight-tracking application built with Python, SQLite and Docker.
-- [openGym](OpenGym.md) - A self-hosted fitness tracker deployed with Docker Compose.
-- [Linux Infrastructure & OpenShift](Linux%20Infrastructure%20and%20openshift.md) - Server provisioning, Linux administration and OpenShift experience.
-- [Power Platform & Integrations](Power%20Platform%20and%20Integrations.md) - Power Automate, Power Apps, SharePoint and API integrations.
-- [AI & Models](AI%20and%20Models.md) - Local AI models, Ollama and model deployment experiments.
+## 🚀 Featured Projects
+
+My hands-on projects span infrastructure, self-hosted applications, automation and AI experimentation.
+
+### 🖥️ Infrastructure & Homelab
+
+**[Titan Homelab](Titan%20Homelab.md)**
+
+Linux-based homelab environment focused on Docker services, infrastructure monitoring, remote access and service health.
+
+**[Linux Infrastructure & OpenShift](Linux%20Infrastructure%20and%20openshift.md)**
+
+Practical experience and technical work involving Linux server provisioning, operating system installation, OpenShift and infrastructure troubleshooting.
+
+### 🛠️ Application Development
+
+**[Flight Deck](Flight%20deck.md)**
+
+A personal aviation tracking application built around Python, SQLite and Docker, with a focus on flight records and a dedicated interface.
+
+**[openGym](OpenGym.md)**
+
+A self-hosted fitness tracking application deployed with Docker Compose, including application configuration and networking.
+
+### ⚙️ Automation & AI
+
+**[Power Platform & Integrations](Power%20Platform%20and%20Integrations.md)**
+
+Workflow automation, Power Apps, SharePoint and API integrations using Microsoft Power Platform.
+
+**[AI & Models](AI%20and%20Models.md)**
+
+Exploration of local AI models, Ollama, model deployment and AI application development.
+
+---
+
+## 🧰 Technologies
+
+`Linux` `Red Hat OpenShift` `Docker` `Docker Compose` `Python` `SQLite` `Power Automate` `Power Apps` `REST APIs` `Ollama`
+
+---
+
+## 📸 Screenshots
+
+Screenshots demonstrating these projects will be added as the portfolio develops.
+
+---
+
+## 📫 Contact
+
+- **GitHub:** [@Yaseen512](https://github.com/Yaseen512)
+- **LinkedIn:** Add your LinkedIn profile URL here
 
 
 ## Contact
