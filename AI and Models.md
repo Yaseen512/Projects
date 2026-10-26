@@ -27,7 +27,7 @@ Areas explored:
 
 **Architecture:** The model host is a separate HP computer, while Titan provides the wider homelab environment. Local model availability therefore depends on the HP being online.
 
-## 2. Atlas — Local AI Assistant
+## 2. Atlas - Local AI Assistant
 
 Atlas is a personal AI assistant project intended to provide useful responses grounded in actual homelab information.
 
@@ -66,7 +66,7 @@ These experiments have helped me explore:
 
 ## 5. Screenshots & Evidence
 
-Screenshots will be added to document the actual configuration and operation of these projects.
+See [AI & Models — Evidence](Screenshots/AI-Models.md) for screenshots documenting the installed Ollama model and successful Qwen inference test.
 
 Planned evidence:
 
