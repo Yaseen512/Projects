@@ -31,11 +31,9 @@ A Linux-based homelab focused on Docker services, infrastructure monitoring, rem
 
 Technical work and practical labs involving Linux server provisioning, operating system installation, OpenShift environments and infrastructure troubleshooting.
 
-**[Watchdog - Homelab Monitoring Node](Watchdog.md)**
+**[Watchdog — Homelab Monitoring Node](Watchdog.md)** — Orange Pi 3 LTS monitoring using Uptime Kuma, Glances and Discord notifications. ([Screenshots](Screenshots/Watchdog-monitoring.md))
 
-A dedicated Orange Pi 3 LTS monitoring node using Uptime Kuma for service availability, Glances for system metrics and Discord for notifications. [View monitoring screenshots](Screenshots/Watchdog-monitoring.md)
-
-**[Linux Homelab Firewall & Cloudflare Zero Trust](Firewall%20And%20Zero%20Trust.md)**
+**[Linux Homelab Firewall & Cloudflare Zero Trust](Firewall%20And%20Zero%20Trust.md)** — Secure remote access to self-hosted services using Cloudflare Tunnel and Zero Trust access controls.
 
 A homelab networking project exploring secure remote access to self-hosted services using Cloudflare Tunnel and Zero Trust access controls.
 
