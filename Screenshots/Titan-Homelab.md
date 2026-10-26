@@ -1,4 +1,4 @@
-# Titan Homelab - Infrastructure Evidence
+# Titan Homelab - Infrastructure
 
 Personal Linux-based homelab used to deploy, manage and maintain self-hosted applications and services.
 
@@ -27,12 +27,6 @@ Shows system resource usage and performance metrics from the homelab.
 Demonstrates remote connectivity to the homelab.
 
 ![Titan Tailscale Remote Access](images/titan-tailscale.png)
-
-## 5. Home Assistant - Alert Notifications
-
-Shows an example of a homelab alert delivered through Home Assistant persistent notifications.
-
-![Titan Home Assistant Alert](images/titan-home-assistant-alert.png)
 
 ---
 
