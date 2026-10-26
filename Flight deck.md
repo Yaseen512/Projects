@@ -1,4 +1,4 @@
-# Flight Deck — Personal Flight Tracker
+# Flight Deck - Personal Flight Tracker
 
 ## Overview
 
