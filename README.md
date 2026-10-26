@@ -24,7 +24,7 @@ I also build personal homelab projects to develop practical skills in monitoring
   
 - **[Linux Infrastructure & OpenShift](Linux%20Infrastructure%20and%20openshift.md)** - Linux server provisioning, OS installation, OpenShift labs and infrastructure troubleshooting.
   
-- **[Watchdog - Homelab Monitoring Node](Watchdog.md)** - Orange Pi 3 LTS monitoring using Uptime Kuma, Glances and Discord notifications. ([Screenshots](Screenshots/Watchdog-monitoring.md))
+- **[Watchdog - Homelab Monitoring Node](Watchdog.md)** - Orange Pi 3 LTS monitoring using Uptime Kuma, Glances and Discord notifications.
   
 - **[Linux Homelab Firewall & Cloudflare Zero Trust](Firewall%20And%20Zero%20Trust.md)** - Secure remote access to self-hosted services using Cloudflare Tunnel and Zero Trust access controls.
   
