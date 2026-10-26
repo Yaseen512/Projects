@@ -1,47 +1,48 @@
-# Flight Deck - Personal Flight Tracker
+# ✈️ Flight Deck
 
 ## Overview
 
-Flight Deck is a personal flight-tracking application developed to manage saved flights and provide a foundation for tracking aircraft activity.
+Flight Deck is a personal aviation tracking application developed to organise saved flights and provide a dedicated interface for tracking flight activity.
 
-The project combines application development, persistent data storage and containerised deployment in a self-hosted environment.
+The project combines application development, persistent data storage and containerisation in a self-hosted environment.
 
 ## Technologies
 
 - Python
 - SQLite
 - Docker
-- Docker Compose
-- REST API integration
+- REST API concepts
+- HTML and CSS
 
-## Features and Development
+## Key Features & Goals
 
-- Developed a web application for managing personal flight records.
-- Implemented SQLite-based persistent storage.
-- Configured containerised application deployment.
-- Worked on application health checks and service troubleshooting.
-- Designed a dark aviation-inspired user interface.
-- Explored aircraft tracking and external aviation data integrations.
+- Maintain personal flight records.
+- Organise flights by status, including Planned, Watching, Departed, Landed and Cancelled.
+- Provide a dedicated aviation-themed user interface.
+- Store application data persistently using SQLite.
+- Run the application in a Docker container.
+- Explore integration with live aviation data sources.
 
-## Engineering Skills Demonstrated
+## Deployment & Architecture
 
-- Application deployment and configuration
-- Database persistence
-- Container management
-- API integration concepts
-- Troubleshooting and iterative development
+The application runs in a containerised environment with its database stored in persistent storage.
 
-## Current Status
+This setup provides practical experience with application configuration, container networking, database persistence and troubleshooting.
 
-Flight Deck is an ongoing personal project. Features and integrations are being developed incrementally.
+## Development Challenges
 
-## Future Improvements
+During development, I worked on:
 
-- Expand live aircraft tracking functionality.
-- Improve flight status updates.
-- Add further documentation and application screenshots.
-- Document deployment and recovery procedures.
+- Configuring and troubleshooting Docker deployment.
+- Managing persistent SQLite data.
+- Resolving application health and connectivity issues.
+- Developing and refining the application's interface.
+- Maintaining a stable version while experimenting with additional functionality.
 
-## Note
+## Screenshots
 
-This is a personal project developed for learning and experimentation. Availability of live aviation data depends on the external data sources and APIs used.
+Screenshots of the Flight Deck interface will be added here.
+
+## Key Takeaway
+
+Flight Deck is an ongoing personal project that brings together Python application development, data persistence and containerised deployment in an aviation-focused application.
