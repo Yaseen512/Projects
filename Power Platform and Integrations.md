@@ -41,10 +41,6 @@ This type of work involves understanding source and destination data, handling f
 - Managing conditional logic and data transformations.
 - Diagnosing integration errors and improving workflow reliability.
 
-## Screenshots & Evidence
-
-Sanitised screenshots of automation flows, application interfaces or integration designs may be added here. No employer-confidential data or credentials will be published.
-
 ## Key Takeaway
 
 This experience combines workflow automation, application development and system integration to solve practical business problems.
