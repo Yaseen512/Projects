@@ -1,4 +1,4 @@
-# Titan Homelab — Linux Infrastructure & Self-Hosting
+# Titan Homelab - Linux Infrastructure & Self-Hosting
 
 ## Overview
 
