@@ -8,9 +8,7 @@ Dedicated monitoring node running on an Orange Pi 3 LTS.
 
 Shows monitored services and their availability status.
 
-![Uptime Kuma dashboard](watchdog-uptime-kuma.png)
-
-*Screenshot pending.*
+![Uptime Kuma dashboard](uptime Dashboard.png)
 
 ## 2. Glances — System Monitoring
 
