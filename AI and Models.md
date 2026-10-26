@@ -1,63 +1,44 @@
-# AI, Model Customisation & Local LLMs
+# 🤖 AI & Model Experimentation
 
 ## Overview
 
-This portfolio entry documents my experience exploring AI tools, customising models and experimenting with locally hosted language models.
+I explore practical AI applications, local language models and AI-assisted development. My work spans Microsoft AI tools and experimenting with running models in a self-hosted environment.
 
-My work spans AI-assisted business solutions and personal experiments with self-hosted AI infrastructure.
+## Technologies & Tools
 
-## Technologies and Tools
-
-- Microsoft Copilot and AI tools
-- Azure AI technologies
-- Large language models (LLMs)
-- Qwen
+- Microsoft Azure AI
+- Microsoft Copilot
 - Ollama
-- Python and API integrations
+- Local language models
+- Python and API concepts
 
-## AI Model Training and Customisation
+## Local AI Experiments
 
-Worked with AI tools to train or customise models for practical use cases.
+My homelab experiments have included:
 
-Areas to document include:
+- Setting up Ollama to serve a language model through an API.
+- Exploring local model deployment and inference.
+- Connecting AI capabilities with application concepts.
+- Considering hardware resources, model size and performance when running models locally.
+- Exploring how a local AI assistant could use real system information to provide useful responses.
 
-- Model configuration and customisation.
-- Experimentation with model behaviour and outputs.
-- Evaluating model responses for intended use cases.
-- Exploring AI-assisted business process improvements.
+## AI-Assisted Development
 
-Specific model names, training methods and evaluation results will be documented where applicable.
+My broader AI-related experience includes working with Microsoft Copilot and AI tools to support development and workflow automation.
 
-## Local AI Deployment
+## Technical Learning
 
-Experimented with deploying Qwen as part of my personal homelab AI setup.
+These experiments have helped me explore:
 
-Technical areas include:
+- Model deployment and inference.
+- Local API access and application integration.
+- Hardware and memory constraints for AI workloads.
+- The differences between using, configuring, fine-tuning and training AI models.
 
-- Exploring local language model deployment.
-- Running models through Ollama.
-- Configuring model access through an API.
-- Investigating local inference and hardware requirements.
-- Exploring integration with Atlas, a personal AI assistant project.
+## Screenshots & Evidence
 
-## Atlas - Personal AI Assistant
+Screenshots of the local model interface, API tests or AI application experiments may be added here after removing secrets, private addresses and other sensitive information.
 
-Atlas is a personal project exploring a locally accessible AI assistant for homelab-related tasks.
+## Key Takeaway
 
-The project aims to connect language model capabilities with practical infrastructure information and provide concise, useful responses.
-
-## Skills Demonstrated
-
-- AI tool configuration and experimentation
-- Model customisation and evaluation
-- Local LLM deployment concepts
-- API-based model access
-- Integration of AI into practical workflows
-
-## Further Development
-
-Future documentation may include architecture diagrams, model configuration, hardware requirements, evaluation examples and deployment instructions.
-
-## Security
-
-No API keys, credentials, private endpoints or confidential employer data are included in this public portfolio.
+This work reflects my practical interest in AI application development, local inference and integrating AI capabilities into useful tools.
