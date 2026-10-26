@@ -38,7 +38,7 @@ Cloudflare Tunnel alone does not automatically protect every service. Access pol
 
 ## Screenshots & Evidence
 
-See [Firewall & Zero Trust — Evidence](Screenshots/Firewall-Zero-Trust.md) for screenshots of my Cloudflare Tunnel and dashboard insights.
+See [Firewall & Zero Trust - Evidence](Screenshots/Firewall-Zero-Trust.md) for screenshots of my Cloudflare Tunnel and dashboard insights.
 
 ## Key Takeaway
 
