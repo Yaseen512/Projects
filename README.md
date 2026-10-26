@@ -1,75 +1,81 @@
 # Yaseen | Technical Projects Portfolio
 
-Welcome to my technical portfolio. This repository showcases projects, practical labs and technical work covering Linux administration, infrastructure, automation, AI and application deployment.
+Welcome to my technical portfolio. This repository showcases hands-on projects, practical labs and technical work across Linux administration, infrastructure, cloud-native technologies, automation, AI and application development.
 
-## About Me
+## 👨‍💻 About Me
 
-I am a Linux and OpenShift engineer with an interest in infrastructure engineering, DevOps, automation and AI. I enjoy building systems, solving technical problems and developing practical solutions.
+I am a Linux and OpenShift engineer with a strong interest in infrastructure engineering, DevOps, automation and AI. My technical experience includes Linux server administration, server provisioning, operating system installation, troubleshooting, containerised applications and workflow automation.
 
-## Technical Interests
+I also build personal homelab projects to develop practical skills in monitoring, networking, application deployment and system administration.
 
-- **Linux & Infrastructure:** Linux administration, server setup and troubleshooting
-- **Containers:** Docker, Docker Compose and self-hosted services
-- **Cloud-Native Technologies:** OpenShift and Kubernetes
-- **Automation:** Power Automate, Power Platform and scripting
-- **AI & Application Development:** AI models, API integrations and Python applications
-- **Monitoring & Networking:** Service health checks, remote access and infrastructure monitoring
+## 🧠 Technical Interests
 
-## Featured Projects
+- **Linux & Infrastructure:** Linux administration, server provisioning, OS installation and troubleshooting
+- **Containers & Self-Hosting:** Docker, Docker Compose and containerised services
+- **Cloud-Native Technologies:** Red Hat OpenShift and Kubernetes
+- **Automation & Integration:** Power Automate, Power Apps, SharePoint, REST APIs and webhooks
+- **AI & Application Development:** Local AI models, Ollama, Python and AI-powered applications
+- **Monitoring & Networking:** Service health monitoring, infrastructure metrics, remote access and Cloudflare Zero Trust
+
+---
 
 ## 🚀 Featured Projects
-
-My hands-on projects span infrastructure, self-hosted applications, automation and AI experimentation.
 
 ### 🖥️ Infrastructure & Homelab
 
 **[Titan Homelab](Titan%20Homelab.md)**
 
-Linux-based homelab environment focused on Docker services, infrastructure monitoring, remote access and service health.
+A Linux-based homelab focused on Docker services, infrastructure monitoring, remote access, service health and Home Assistant integration.
 
 **[Linux Infrastructure & OpenShift](Linux%20Infrastructure%20and%20openshift.md)**
 
-Practical experience and technical work involving Linux server provisioning, operating system installation, OpenShift and infrastructure troubleshooting.
+Technical work and practical labs involving Linux server provisioning, operating system installation, OpenShift environments and infrastructure troubleshooting.
+
+**[Watchdog — Homelab Monitoring Node](Watchdog.md)**
+
+A dedicated Orange Pi 3 LTS monitoring node using Uptime Kuma for service availability, Glances for system metrics and Discord for notifications.
+
+**[Linux Homelab Firewall & Cloudflare Zero Trust](Firewall%20and%20Zero%20Trust.md)**
+
+A homelab networking project exploring secure remote access to self-hosted services using Cloudflare Tunnel and Zero Trust access controls.
 
 ### 🛠️ Application Development
 
 **[Flight Deck](Flight%20deck.md)**
 
-A personal aviation tracking application built around Python, SQLite and Docker, with a focus on flight records and a dedicated interface.
+A personal aviation tracking application built with Python, SQLite and Docker, featuring flight records, status tracking and a dedicated interface.
 
 **[openGym](OpenGym.md)**
 
-A self-hosted fitness tracking application deployed with Docker Compose, including application configuration and networking.
+A self-hosted fitness tracking application deployed with Docker Compose, covering application configuration, container deployment and networking.
 
-### ⚙️ Automation & AI
+### ⚙️ Automation & Integrations
 
 **[Power Platform & Integrations](Power%20Platform%20and%20Integrations.md)**
 
-Workflow automation, Power Apps, SharePoint and API integrations using Microsoft Power Platform.
+Projects and technical experience involving Power Automate workflows, Power Apps, SharePoint and API-based integrations.
+
+### 🤖 AI & Machine Learning
 
 **[AI & Models](AI%20and%20Models.md)**
 
-Exploration of local AI models, Ollama, model deployment and AI application development.
-
-**[Linux Homelab Firewall & Cloudflare Zero Trust](Firewall%20And%20Zero%20Trust.md)**
-
-Securing remote access to self-hosted services using Linux infrastructure, Cloudflare Tunnel and Zero Trust access controls.
+Exploration of local AI models, Ollama, model deployment, AI application development and work with Microsoft AI tools.
 
 ---
 
 ## 🧰 Technologies
 
-`Linux` `Red Hat OpenShift` `Docker` `Docker Compose` `Python` `SQLite` `Power Automate` `Power Apps` `REST APIs` `Ollama`
+`Linux` `Red Hat OpenShift` `Kubernetes` `Docker` `Docker Compose` `Python` `SQLite` `Power Automate` `Power Apps` `SharePoint` `REST APIs` `Webhooks` `Ollama` `Home Assistant` `Uptime Kuma` `Glances` `Cloudflare Zero Trust`
 
 ---
 
-## 📸 Screenshots
+## 📸 Screenshots & Demonstrations
 
-Screenshots demonstrating these projects will be added as the portfolio develops.
+Screenshots and demonstrations will be added as the portfolio develops to show project interfaces, monitoring dashboards, deployment setups and practical results.
 
 ---
 
-## Contact
+## 📫 Contact
 
-- GitHub: [@Yaseen512](https://github.com/Yaseen512)
-- LinkedIn: www.linkedin.com/in/yaseen-musthapha-087992208
+- **GitHub:** [@Yaseen512](https://github.com/Yaseen512)
+- **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/yaseen-musthapha-087992208)
