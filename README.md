@@ -31,7 +31,7 @@ A Linux-based homelab focused on Docker services, infrastructure monitoring, rem
 
 Technical work and practical labs involving Linux server provisioning, operating system installation, OpenShift environments and infrastructure troubleshooting.
 
-**[Watchdog — Homelab Monitoring Node](Watchdog.md)**
+**[Watchdog - Homelab Monitoring Node](Watchdog.md)**
 
 A dedicated Orange Pi 3 LTS monitoring node using Uptime Kuma for service availability, Glances for system metrics and Discord for notifications.
 
