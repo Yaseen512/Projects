@@ -20,7 +20,7 @@ Shows the Home Assistant dashboard and relevant monitoring entities.
 
 Shows system resource usage and performance metrics from the homelab.
 
-![Titan Glances System Metrics](images/titan-glances.png)
+![Titan Glances System Metrics]()
 
 ## 4. Tailscale - Remote Access
 
