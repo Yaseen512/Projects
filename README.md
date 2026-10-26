@@ -35,6 +35,8 @@ Technical work and practical labs involving Linux server provisioning, operating
 
 A dedicated Orange Pi 3 LTS monitoring node using Uptime Kuma for service availability, Glances for system metrics and Discord for notifications.
 
+[View Watchdog monitoring screenshots](screenshots/watchdog-monitoring.md)
+
 **[Linux Homelab Firewall & Cloudflare Zero Trust](Firewall%20And%20Zero%20Trust.md)**
 
 A homelab networking project exploring secure remote access to self-hosted services using Cloudflare Tunnel and Zero Trust access controls.
