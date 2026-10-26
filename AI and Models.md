@@ -40,7 +40,7 @@ Technical areas include:
 - Investigating local inference and hardware requirements.
 - Exploring integration with Atlas, a personal AI assistant project.
 
-## Atlas — Personal AI Assistant
+## Atlas - Personal AI Assistant
 
 Atlas is a personal project exploring a locally accessible AI assistant for homelab-related tasks.
 
