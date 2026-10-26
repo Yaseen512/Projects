@@ -1,4 +1,4 @@
-# 🤖 AI & Model Experimentation
+# 🤖 AI Model Experimentation
 
 ## Overview
 
