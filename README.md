@@ -49,12 +49,6 @@ I also build personal homelab projects to develop practical skills in monitoring
 
 ---
 
-## 📸 Screenshots & Demonstrations
-
-Screenshots and demonstrations will be added as the portfolio develops to show project interfaces, monitoring dashboards, deployment setups and practical results.
-
----
-
 ## 📫 Contact
 
 - **GitHub:** [@Yaseen512](https://github.com/Yaseen512)
