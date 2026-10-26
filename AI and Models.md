@@ -66,7 +66,7 @@ These experiments have helped me explore:
 
 ## 5. Screenshots & Evidence
 
-See [AI & Models — Evidence](Screenshots/AI-Models.md) for screenshots documenting the installed Ollama model and successful Qwen inference test.
+See [AI & Models - Evidence](Screenshots/AI-Models.md) for screenshots documenting the installed Ollama model and successful Qwen inference test.
 
 Planned evidence:
 
