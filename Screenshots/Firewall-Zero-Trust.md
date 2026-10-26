@@ -1,4 +1,4 @@
-# 🔐 Firewall & Zero Trust — Evidence
+# 🔐 Firewall & Zero Trust - Evidence
 
 ## 1. Cloudflare Tunnel
 
