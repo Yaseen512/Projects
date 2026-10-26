@@ -40,7 +40,7 @@ This setup helps me develop practical experience with:
 
 ## Screenshots & Evidence
 
-See [Watchdog - Evidence](Screenshots/watchdog-monitoring.md) for screenshots of the monitoring dashboard, system metrics, and service availability.
+See [Watchdog - Evidence](Screenshots/Watchdog-monitoring.md) for screenshots of the monitoring dashboard, system metrics, and service availability.
 
 ## Key Takeaway
 
