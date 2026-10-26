@@ -51,7 +51,7 @@ Workflow automation, Power Apps, SharePoint and API integrations using Microsoft
 
 Exploration of local AI models, Ollama, model deployment and AI application development.
 
-**[Linux Homelab Firewall & Cloudflare Zero Trust](Firewall%20and%20Zero%20Trust.md)**
+**[Linux Homelab Firewall & Cloudflare Zero Trust](Firewall%20And%20Zero%20Trust.md)**
 
 Securing remote access to self-hosted services using Linux infrastructure, Cloudflare Tunnel and Zero Trust access controls.
 
