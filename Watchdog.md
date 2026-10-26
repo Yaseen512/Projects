@@ -40,9 +40,7 @@ This setup helps me develop practical experience with:
 
 ## Screenshots & Evidence
 
-Screenshots of the Uptime Kuma dashboard, Glances metrics and sanitised Discord alerts will be added here.
-
-Sensitive information such as public or private IP addresses, internal hostnames, webhook URLs, bot tokens and other credentials will not be published.
+See [Watchdog - Evidence](Screenshots/watchdog-monitoring.md) for screenshots of the monitoring dashboard, system metrics, and service availability.
 
 ## Key Takeaway
 
