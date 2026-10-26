@@ -14,12 +14,12 @@ Shows monitored services and their availability status.
 
 Shows system resource usage and metrics from the monitoring node.
 
-![Glances system metrics](watchdog-glances.png)
+![Glances system metrics](images/watchdog-glances.png)
 
 ## 3. Discord - Alert Notifications
 
 Shows a real monitoring notification delivered through Discord.
 
-![Discord monitoring alert](watchdog-discord.png)
+![Discord monitoring alert](images/watchdog-discord.png)
 
 ---
