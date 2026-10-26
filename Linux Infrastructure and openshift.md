@@ -1,51 +1,51 @@
-# Linux Server Infrastructure & OpenShift
+# 🐧 Linux Infrastructure & OpenShift
 
 ## Overview
 
-This portfolio entry documents my practical experience with server provisioning, Linux administration and OpenShift infrastructure.
+My infrastructure experience includes Linux server provisioning, operating system installation, server configuration, troubleshooting and working with Red Hat OpenShift environments.
 
-It covers professional experience and related technical learning, with confidential employer information excluded.
+This page documents my practical infrastructure work and ongoing development in enterprise Linux and cloud-native technologies.
 
-## Technical Areas
+## Technologies
 
-- Linux server administration
-- Server building and provisioning
-- ISO mounting and operating system installation
-- OpenShift deployment and administration
-- Infrastructure troubleshooting
-- Cluster health checks and operational support
+- Red Hat Linux
+- Red Hat OpenShift
+- Kubernetes concepts
+- Server provisioning
+- ISO-based operating system installation
+- Command-line administration
+- Cluster and workload troubleshooting
 
-## Server Provisioning
+## Server Infrastructure
 
-Practical experience includes:
+My server-related work has included:
 
-- Building and preparing server hardware.
-- Mounting ISO images for operating system installation.
-- Installing and configuring operating systems.
-- Performing initial system configuration and troubleshooting.
+- Building and preparing servers.
+- Mounting installation ISOs and installing operating systems.
+- Performing Linux administration and troubleshooting.
+- Investigating service and connectivity issues.
+- Supporting infrastructure configuration and operational tasks.
 
-## OpenShift
+## OpenShift & Cloud-Native Environments
 
-Experience includes working with OpenShift environments and supporting cluster operations.
+My OpenShift-related work and learning have involved:
 
-Relevant areas to document include:
+- Inspecting cluster nodes and their status.
+- Reviewing projects, namespaces and workloads.
+- Checking cluster versions and platform components.
+- Investigating deployment and cluster health issues.
+- Using command-line tools to inspect and troubleshoot environments.
 
-- Cluster deployment and configuration.
-- Node and cluster health checks.
-- Project, namespace and workload administration.
-- Troubleshooting cluster and application issues.
-- Monitoring cluster components and operator health.
+## Troubleshooting Approach
 
-## Skills Demonstrated
+When investigating infrastructure issues, I focus on gathering evidence before making changes. This includes checking resource status, service health, configuration, logs and connectivity to narrow down the cause.
 
-- Linux systems administration
-- Server provisioning and operating system installation
-- Infrastructure troubleshooting
-- OpenShift and Kubernetes operations
-- Technical documentation
+## Screenshots & Evidence
 
-## Evidence and Further Documentation
+Sanitised terminal output, sample architecture diagrams or lab screenshots may be added here.
 
-Sanitised architecture diagrams, lab exercises, command examples and troubleshooting case studies will be added where appropriate.
+All examples must exclude production credentials, internal hostnames, private addresses and employer-confidential information.
 
-Professional work is described without disclosing confidential infrastructure details, credentials or employer-owned configurations.
+## Key Takeaway
+
+This experience supports my continued growth in Linux administration, enterprise infrastructure, OpenShift operations and DevOps engineering.
