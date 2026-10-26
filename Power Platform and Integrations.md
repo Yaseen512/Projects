@@ -1,64 +1,50 @@
-# Power Platform, Workflow Automation & Integrations
+# ⚙️ Power Platform & Integrations
 
 ## Overview
 
-This portfolio entry covers my experience developing business process automations, building low-code applications and integrating business systems using Microsoft Power Platform.
+I have experience developing workflow automations and business applications using Microsoft Power Platform. My work has involved automating repetitive processes, connecting systems and supporting business workflows.
 
 ## Technologies
 
 - Microsoft Power Automate
 - Microsoft Power Apps
-- SharePoint
-- REST APIs and webhooks
-- Freshservice integrations
-- Microsoft Copilot and AI tools
+- Microsoft SharePoint
+- REST API concepts
+- Webhooks
+- JSON and data mapping
 
 ## Workflow Automation
 
-Developed and supported multiple Power Automate flows to automate business processes and reduce repetitive manual work.
+My automation work has included:
 
-Areas of experience include:
-
-- Designing automated workflows and process logic.
-- Integrating business systems and transferring data between services.
-- Mapping request fields and handling data transformation.
-- Troubleshooting API requests, connector issues and workflow failures.
-- Improving the reliability of automated processes.
+- Developing Power Automate flows to reduce manual tasks.
+- Connecting services and handling data between systems.
+- Configuring workflow conditions and data transformations.
+- Troubleshooting failed actions and integration issues.
+- Working with SharePoint as a data source for business processes.
 
 ## Application Development
 
-Worked with Power Apps to develop low-code business applications.
-
-Relevant experience includes:
-
-- Designing application screens and user journeys.
-- Connecting applications to SharePoint lists and document libraries.
-- Implementing variables, progress tracking and conditional logic.
-- Supporting document-driven workflows and business processes.
+Using Power Apps, I have worked on business application development and process digitisation, with SharePoint supporting application data and document workflows.
 
 ## System Integrations
 
-Worked on integrations involving ticketing systems and external services, including Freshservice environments.
+I have worked on integrating service-management workflows, including Freshservice integrations and ticket data mapping between systems.
 
-Technical areas include:
+This type of work involves understanding source and destination data, handling field mappings, and investigating errors that occur during data transfer.
 
-- API-based data exchange.
-- Request and response handling.
-- Field mapping and requester information.
-- Integration troubleshooting and error diagnosis.
+## Technical Challenges
 
-## Skills Demonstrated
+- Troubleshooting workflow failures.
+- Handling API request and response data.
+- Mapping fields between different systems.
+- Managing conditional logic and data transformations.
+- Diagnosing integration errors and improving workflow reliability.
 
-- Workflow design and automation
-- Low-code application development
-- API integration and data mapping
-- Troubleshooting and process improvement
-- Business application configuration
+## Screenshots & Evidence
 
-## Evidence
+Sanitised screenshots of automation flows, application interfaces or integration designs may be added here. No employer-confidential data or credentials will be published.
 
-Sanitised workflow diagrams, recreated examples, screenshots and technical case studies can be added to demonstrate individual implementations.
+## Key Takeaway
 
-## Security
-
-Employer-owned flows, credentials, internal endpoints and confidential business data are not included in this public portfolio.
+This experience combines workflow automation, application development and system integration to solve practical business problems.
