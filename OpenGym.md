@@ -36,7 +36,7 @@ During setup, I worked through:
 
 ## Screenshots
 
-Screenshots of the application interface and deployment will be added here.
+See [openGym — Evidence](Screenshots/openGym.md) for screenshots of the application dashboard and workout tracking interface.
 
 ## Key Takeaway
 
