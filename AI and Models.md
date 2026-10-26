@@ -2,43 +2,80 @@
 
 ## Overview
 
-I explore practical AI applications, local language models and AI-assisted development. My work spans Microsoft AI tools and experimenting with running models in a self-hosted environment.
+This project documents my practical experience exploring AI application development, local language model deployment and AI-assisted development. It combines self-hosted AI experimentation with experience using Microsoft AI technologies and integrating AI into useful workflows.
 
 ## Technologies & Tools
 
-- Microsoft Azure AI
-- Microsoft Copilot
 - Ollama
-- Local language models
-- Python and API concepts
+- Qwen 3.5 (4B)
+- Python and REST APIs
+- Linux and self-hosted infrastructure
+- Microsoft Azure AI
+- Microsoft Copilot and Power Platform
 
-## Local AI Experiments
+## 1. Local AI Model Deployment
 
-My homelab experiments have included:
+I configured a local AI environment using Ollama to serve a language model through an API. The setup used the Qwen 3.5 4B model and provided a foundation for experimenting with local inference and application integration.
 
-- Setting up Ollama to serve a language model through an API.
-- Exploring local model deployment and inference.
-- Connecting AI capabilities with application concepts.
-- Considering hardware resources, model size and performance when running models locally.
-- Exploring how a local AI assistant could use real system information to provide useful responses.
+Areas explored:
 
-## AI-Assisted Development
+- Deploying a language model through Ollama.
+- Serving model responses through an API.
+- Understanding model quantisation and hardware resource requirements.
+- Exploring the trade-offs between local inference and externally hosted AI services.
+- Investigating how local models can support self-hosted applications.
 
-My broader AI-related experience includes working with Microsoft Copilot and AI tools to support development and workflow automation.
+**Architecture:** The model host is a separate HP computer, while Titan provides the wider homelab environment. Local model availability therefore depends on the HP being online.
 
-## Technical Learning
+## 2. Atlas — Local AI Assistant
+
+Atlas is a personal AI assistant project intended to provide useful responses grounded in actual homelab information.
+
+The project explores:
+
+- Connecting an AI model to an application through an API.
+- Designing an assistant for practical infrastructure-related tasks.
+- Using real system information rather than inventing metrics or service statuses.
+- Understanding dependencies between the application, model host and underlying infrastructure.
+
+Atlas is an ongoing project focused on combining local AI inference with practical homelab use cases.
+
+## 3. Microsoft AI & Copilot Experience
+
+My broader AI experience includes working with Microsoft AI tools and Copilot-assisted development.
+
+This experience complements my work in application development and workflow automation, including:
+
+- Exploring AI-assisted development and application workflows.
+- Working with Copilot-related model development and training tools.
+- Applying AI capabilities to practical business and automation use cases.
+- Combining AI tools with Microsoft Power Platform.
+
+I also hold an Azure AI Engineer Associate certification, an NQF Level 5 qualification in Software Development and i am working towards my Redhat Certified Systems Administrator.
+
+## 4. Technical Learning
 
 These experiments have helped me explore:
 
-- Model deployment and inference.
-- Local API access and application integration.
-- Hardware and memory constraints for AI workloads.
-- The differences between using, configuring, fine-tuning and training AI models.
+- Local model deployment and inference.
+- API-based model serving and integration.
+- Model size, quantisation, memory and hardware constraints.
+- Application dependencies in a self-hosted environment.
+- The differences between inference, fine-tuning and training.
+- The practical considerations involved in building AI-powered applications.
 
-## Screenshots & Evidence
+## 5. Screenshots & Evidence
 
-Screenshots of the local model interface, API tests or AI application experiments may be added here after removing secrets, private addresses and other sensitive information.
+Screenshots will be added to document the actual configuration and operation of these projects.
+
+Planned evidence:
+
+- Ollama model availability and configuration.
+- A genuine Qwen 3.5 inference response.
+- API request and response testing.
+- Atlas application or terminal output.
+- Relevant Microsoft AI and Copilot development examples, where available.
 
 ## Key Takeaway
 
-This work reflects my practical interest in AI application development, local inference and integrating AI capabilities into useful tools.
+This project demonstrates my practical interest in AI engineering, local model deployment and application integration. It brings together AI experimentation, Linux, APIs and self-hosted infrastructure while documenting the technical considerations involved in building useful AI-powered tools.
