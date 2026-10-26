@@ -38,9 +38,7 @@ Cloudflare Tunnel alone does not automatically protect every service. Access pol
 
 ## Screenshots & Evidence
 
-Screenshots of the Cloudflare Zero Trust configuration and sanitised Linux firewall status will be added here.
-
-Sensitive information—including tunnel tokens, credentials, private IP addresses, internal hostnames and account identifiers—will not be published.
+See [Firewall & Zero Trust — Evidence](Screenshots/Firewall-Zero-Trust.md) for screenshots of my Cloudflare Tunnel and dashboard insights.
 
 ## Key Takeaway
 
