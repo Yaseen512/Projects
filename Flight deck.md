@@ -41,7 +41,7 @@ During development, I worked on:
 
 ## Screenshots
 
-See [Flight Deck — Evidence](Screenshots/Flight-Deck.md) for screenshots of the application dashboard and saved flights interface.
+See [Flight Deck - Evidence](Screenshots/Flight-Deck.md) for screenshots of the application dashboard and saved flights interface.
 
 ## Key Takeaway
 
