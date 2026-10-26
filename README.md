@@ -65,12 +65,6 @@ Screenshots demonstrating these projects will be added as the portfolio develops
 
 ---
 
-## 📫 Contact
-
-- **GitHub:** [@Yaseen512](https://github.com/Yaseen512)
-- **LinkedIn:** Add your LinkedIn profile URL here
-
-
 ## Contact
 
 - GitHub: [@Yaseen512](https://github.com/Yaseen512)
