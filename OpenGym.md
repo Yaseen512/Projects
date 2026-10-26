@@ -1,43 +1,43 @@
-# openGym - Self-Hosted Fitness Tracking
+# 💪 openGym
 
 ## Overview
 
-openGym is a self-hosted fitness tracking project deployed in my personal homelab. The project provides a practical environment for exploring application deployment, container orchestration and remote access.
+openGym is a self-hosted fitness tracking application deployed in my personal homelab. The project gives me hands-on experience with containerised application deployment, service configuration, networking and troubleshooting.
 
 ## Technologies
 
 - Docker
 - Docker Compose
 - Web application deployment
-- Container networking
-- Environment-based configuration
-
-## Implementation
-
-- Deployed the application using Docker Compose.
-- Configured the web service to run on a dedicated host port.
-- Configured application networking between the web frontend and backend API.
-- Managed deployment settings through environment variables.
-- Troubleshot application accessibility and container health.
-
-## Engineering Skills Demonstrated
-
-- Containerised application deployment
-- Service networking and port mapping
+- API-based application architecture
 - Environment configuration
-- Application troubleshooting
-- Self-hosted service management
+- Cloudflare Tunnel experimentation
 
-## Project Goals
+## Deployment & Configuration
 
-- Maintain a reliable, self-hosted fitness tracking application.
-- Improve understanding of application architecture and deployment.
-- Document configuration, troubleshooting and maintenance procedures.
+I deployed openGym using Docker Compose and configured the web application to run on a dedicated host port to avoid conflicts with existing services.
 
-## Current Status
+The deployment includes:
 
-The application has been deployed in my personal homelab. Further documentation and screenshots can be added as the project develops.
+- Configuring application services and their connectivity.
+- Managing environment variables for application configuration.
+- Exposing the web interface through a host port.
+- Checking application health and HTTP responses.
+- Troubleshooting connectivity and external-access configuration.
 
-## Security
+## Technical Challenges
 
-Sensitive environment variables, credentials, authentication secrets and private configuration are excluded from public documentation.
+During setup, I worked through:
+
+- Resolving host port conflicts with existing applications.
+- Validating that the web interface responded correctly.
+- Managing configuration for external access.
+- Understanding the relationship between application ports, host ports and reverse-proxy or tunnel configuration.
+
+## Screenshots
+
+Screenshots of the application interface and deployment will be added here.
+
+## Key Takeaway
+
+openGym is a practical example of self-hosting an application and troubleshooting the networking and configuration required to make it accessible.
