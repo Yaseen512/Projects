@@ -23,41 +23,23 @@ I also build personal homelab projects to develop practical skills in monitoring
 
 ### 🖥️ Infrastructure & Homelab
 
-**[Titan Homelab](Titan%20Homelab.md)**
-
-A Linux-based homelab focused on Docker services, infrastructure monitoring, remote access, service health and Home Assistant integration.
-
-**[Linux Infrastructure & OpenShift](Linux%20Infrastructure%20and%20openshift.md)**
-
-Technical work and practical labs involving Linux server provisioning, operating system installation, OpenShift environments and infrastructure troubleshooting.
-
-**[Watchdog — Homelab Monitoring Node](Watchdog.md)** — Orange Pi 3 LTS monitoring using Uptime Kuma, Glances and Discord notifications. ([Screenshots](Screenshots/Watchdog-monitoring.md))
-
-**[Linux Homelab Firewall & Cloudflare Zero Trust](Firewall%20And%20Zero%20Trust.md)** — Secure remote access to self-hosted services using Cloudflare Tunnel and Zero Trust access controls.
-
-A homelab networking project exploring secure remote access to self-hosted services using Cloudflare Tunnel and Zero Trust access controls.
+- **[Titan Homelab](Titan%20Homelab.md)** — Linux homelab featuring Docker services, Home Assistant, monitoring and remote access.
+- **[Linux Infrastructure & OpenShift](Linux%20Infrastructure%20and%20openshift.md)** — Linux server provisioning, OS installation, OpenShift labs and infrastructure troubleshooting.
+- **[Watchdog — Homelab Monitoring Node](Watchdog.md)** — Orange Pi 3 LTS monitoring using Uptime Kuma, Glances and Discord notifications. ([Screenshots](Screenshots/Watchdog-monitoring.md))
+- **[Linux Homelab Firewall & Cloudflare Zero Trust](Firewall%20And%20Zero%20Trust.md)** — Secure remote access to self-hosted services using Cloudflare Tunnel and Zero Trust access controls.
 
 ### 🛠️ Application Development
 
-**[Flight Deck](Flight%20deck.md)**
-
-A personal aviation tracking application built with Python, SQLite and Docker, featuring flight records, status tracking and a dedicated interface.
-
-**[openGym](OpenGym.md)**
-
-A self-hosted fitness tracking application deployed with Docker Compose, covering application configuration, container deployment and networking.
+- **[Flight Deck](Flight%20deck.md)** — Python, SQLite and Docker application for managing flight records and flight statuses.
+- **[openGym](OpenGym.md)** — Self-hosted fitness tracking application deployed using Docker Compose.
 
 ### ⚙️ Automation & Integrations
 
-**[Power Platform & Integrations](Power%20Platform%20and%20Integrations.md)**
-
-Projects and technical experience involving Power Automate workflows, Power Apps, SharePoint and API-based integrations.
+- **[Power Platform & Integrations](Power%20Platform%20and%20Integrations.md)** — Power Automate workflows, Power Apps, SharePoint and API integrations.
 
 ### 🤖 AI & Machine Learning
 
-**[AI & Models](AI%20and%20Models.md)**
-
-Exploration of local AI models, Ollama, model deployment, AI application development and work with Microsoft AI tools.
+- **[AI & Models](AI%20and%20Models.md)** — Local AI models, Ollama, model deployment and AI application development.
 
 ---
 
