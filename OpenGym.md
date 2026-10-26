@@ -1,4 +1,4 @@
-# openGym — Self-Hosted Fitness Tracking
+# openGym - Self-Hosted Fitness Tracking
 
 ## Overview
 
