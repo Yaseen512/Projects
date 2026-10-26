@@ -17,7 +17,14 @@ I am a Linux and OpenShift engineer with an interest in infrastructure engineeri
 
 ## Featured Projects
 
-Project documentation and demonstrations will be added here as the portfolio develops.
+- [Titan Homelab](titan-homelab.md) — Linux administration, Docker, monitoring and homelab infrastructure.
+- [Flight Deck](flight-deck.md) — A personal flight-tracking application built with Python, SQLite and Docker.
+- [openGym](opengym.md) — A self-hosted fitness tracker deployed with Docker Compose.
+- [Linux Infrastructure & OpenShift](infrastructure-and-openshift.md) — Server provisioning, Linux administration and OpenShift experience.
+- [Power Platform & Integrations](power-platform-and-integrations.md) — Power Automate, Power Apps, SharePoint and API integrations.
+- [Automation & AI](automation-and-ai.md) — Workflow automation and AI-related development.
+- [AI & Model Experimentation](ai-and-models.md) — Local AI models, Ollama and model deployment experiments.
+
 
 ## Contact
 
